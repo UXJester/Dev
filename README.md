@@ -1,4 +1,4 @@
 Dev
 ===
 
-Development repository
+Development repository for UXJester.
